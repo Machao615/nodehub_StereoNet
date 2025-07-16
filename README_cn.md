@@ -2,10 +2,6 @@
 
 # 双目深度算法
 
-```mdx-code-block
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-```
 
 ## 仓库说明
 

@@ -2,11 +2,6 @@ English| [简体中文](./README_cn.md)
 
 # Stereo Depth Algorithm
 
-```mdx-code-block
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-```
-
 ## Repository Notice
 
 **⚠️ Important Notice:**
